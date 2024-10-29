@@ -21,4 +21,4 @@ Route::get('/', function () {
 //     return view('home');
 // });
 
-Route::view('/home','welcome');
+Route::view('/home','home');
